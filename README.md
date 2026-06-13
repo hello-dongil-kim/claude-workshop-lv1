@@ -189,3 +189,13 @@ Claude Code 설치                → MCP로 외부 도구 연결
 | Part 9 설치 후 `command not found` | 터미널을 닫고 새로 열기 |
 | npm 방식으로 설치해버림 | 그대로 사용 가능하나, 네이티브 재설치 권장 |
 | 파트를 건너뛰고 싶음 | 시작 시 원하는 파트 번호를 말하면 됨 |
+
+---
+
+## 만든 사람
+
+**김동일 (Dongil Kim)**
+
+- Email: <hello@dongil.kim>
+- LinkedIn: <https://www.linkedin.com/in/hellodongilkim/>
+- GitHub: <https://github.com/hello-dongil-kim/>

@@ -1076,7 +1076,7 @@ Lv.2에서는 Claude Code를 **확장**하는 방법을 배운다:
 3. Claude Code 패널에서 `/session1-claude-md` 입력
 4. 튜터가 안내하는 대로 진행 (진행 방식은 Lv.1과 동일: 설명 → 실습 → 퀴즈)
 
-> **사내 도구 연동이 필요하다면:** Lv.2 과정과 별도로, 사내 Confluence/Jira/Works/GHES를 Claude Code에 연결하는 **NAVER 연동 설정 런북**을 실행할 수 있습니다. Lv.2 완료 후 진행을 추천합니다.
+> **사내 도구 연동이 필요하다면:** Lv.2 과정과 별도로, 사내 Confluence·Jira 같은 도구를 Claude Code에 연결하는 회사 내부의 사내 연동 가이드를 따라 진행할 수 있습니다. Lv.2 완료 후 진행을 추천합니다.
 
 ### EXECUTE
 
